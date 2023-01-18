@@ -1,0 +1,6 @@
+D:\Projects\Hangman\Hangman\Hangman\bin\Release\Hangman.exe
+D:\Projects\Hangman\Hangman\Hangman\bin\Release\Hangman.pdb
+D:\Projects\Hangman\Hangman\Hangman\obj\Release\Hangman.csproj.AssemblyReference.cache
+D:\Projects\Hangman\Hangman\Hangman\obj\Release\Hangman.csproj.CoreCompileInputs.cache
+D:\Projects\Hangman\Hangman\Hangman\obj\Release\Hangman.exe
+D:\Projects\Hangman\Hangman\Hangman\obj\Release\Hangman.pdb
